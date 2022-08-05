@@ -1,6 +1,6 @@
 # qb-vehiclekeys
 
-FORK FROM : https://github.com/qbcore-framework/qb-vehiclekeys
+FORK FROM : https://github.com/Geenensq/qb-vehiclekeys
 
 ## Why this fork?
 Fivem's native door status functions are unreliable.
